@@ -5,4 +5,4 @@ I'm a self-taught software engineer, I'm getting a degree in a software engineer
 
 ## 🧳Languages and Tools
 
-<img src="/assets/python.svg">
+<img src="/assets/python.svg" style="width:30px;">
