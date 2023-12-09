@@ -6,7 +6,7 @@ I'm a self-taught software engineer, I'm getting a degree in a software engineer
 ## 🧳Languages and Tools
 
 <div style="img {width:80px;}">
-  <img src="/assets/python.svg" style="width:80px;"><img src="/assets/c.svg" style="width:80px;"><img src="/assets/php.svg"; style="width:80px;"><img src="/assets/git.svg" style="width:80px;"><img src="/assets/html.svg" style="width:80px;"><img src="/assets/css.svg" style="width:80px;"><img src="/assets/js.svg" style="width:80px;"><img src="/assets/bash-icon-svgrepo-com.svg" style="width:80px;">
+  <img src="/assets/python.svg" style="width:80px;"><img src="/assets/c.svg" style="width:70px;"><img src="/assets/php.svg"; style="width:80px;"><img src="/assets/git.svg" style="width:80px;"><img src="/assets/html.svg" style="width:80px;"><img src="/assets/css.svg" style="width:80px;"><img src="/assets/js.svg" style="width:80px;"><img src="/assets/bash-icon-svgrepo-com.svg" style="width:80px;">
 </div>
 
 
