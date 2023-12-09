@@ -12,4 +12,4 @@ I'm a self-taught software engineer, I'm getting a degree in a software engineer
 <img src="/assets/html.svg" style="width:80px;">
 <img src="/assets/css.svg" style="width:80px;">
 <img src="/assets/js.svg" style="width:80px;">
-<img src="/assets/python.svg" style="width:80px;">
+<img src="/assets/bash-icon-svgrepo-com.svg" style="width:80px;">
