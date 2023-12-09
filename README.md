@@ -6,3 +6,5 @@ I'm a self-taught software engineer, I'm getting a degree in a software engineer
 ## 🧳Languages and Tools
 
 <img src="/assets/python.svg" align="left" style="width:50px;"><img src="/assets/c.svg" align="left" style="width:50px;"><img src="/assets/php.svg" align="left" style="width:50px;"><img src="/assets/git.svg" align="left" style="width:50px;"><img src="/assets/html.svg" align="left" style="width:50px;"><img src="/assets/css.svg" align="left" style="width:50px;"><img src="/assets/js.svg" align="left" style="width:50px;"><img src="/assets/bash.svg" align="left" style="width:50px;">
+
+# Anderson coding journey
