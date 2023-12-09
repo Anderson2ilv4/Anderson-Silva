@@ -5,7 +5,7 @@ I'm a self-taught software engineer, I'm getting a degree in a software engineer
 
 ## 🧳Languages and Tools
 
-<div style="width: 80px;">
+<div style="img {width:80px;}">
   <img src="/assets/python.svg"><img src="/assets/c.svg"><img src="/assets/php.svg";"><img src="/assets/git.svg"><img src="/assets/html.svg"><img src="/assets/css.svg"><img src="/assets/js.svg"><img src="/assets/bash-icon-svgrepo-com.svg">
 </div>
 
