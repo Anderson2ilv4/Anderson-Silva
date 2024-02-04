@@ -7,6 +7,8 @@ I'm a self-taught software engineer, I'm getting a degree in a software engineer
 
 <img src="/assets/python.svg" align="left" style="width:50px;"><img src="/assets/c.svg" align="left" style="width:50px;"><img src="/assets/php.svg" align="left" style="width:50px;"><img src="/assets/git.svg" align="left" style="width:50px;"><img src="/assets/html.svg" align="left" style="width:50px;"><img src="/assets/css.svg" align="left" style="width:50px;"><img src="/assets/js.svg" align="left" style="width:50px;"><img src="/assets/bash.svg" style="width:50px;">
 
+![](https://leetcard.jacoblin.cool/silvaanderson124?ext=activity)
+
 # 🎬YouTube videos comming soon ⏳
 
 <details>
