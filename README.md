@@ -11,8 +11,9 @@ I'm a self-taught software engineer, I'm getting a degree in a software engineer
 
 # 🎬YouTube videos comming soon ⏳
 
-[![Alt text](https://img.youtube.com/vi/u3Dy8PX_BmY/0.jpg)](https://youtu.be/u3Dy8PX_BmY)
-
+<div style="width: 300px;">
+    [![Alt text](https://img.youtube.com/vi/u3Dy8PX_BmY/0.jpg)](https://youtu.be/u3Dy8PX_BmY)
+</div>
 <details>
     <summary><h1>👨‍💻Anderso'n coding journey</h1></summary>
     <p>Hi, I'm Anderson, here we have a little part of my journey on coding, my first time coding was on 2017, when I graduated from high school, I just started a course that had python as the main language, and it was my first language, very simple to learn and so powerfull, when I finished my course I stayed for a long time without coding anything, trying to get on diferent areas like stocks exchange, but I was always in contact with computers and when the stocks didn't work for me I started again studying about coding, learning diferent languages and being more interested on that subject, it's because with it I can resolve some real problems to other people, I think that it was the reason that I didn't fit in stocks exchange market, because I was just resolving my problems and what I want is to help people, so since November, 2022 I'm daily studying and getting more knowledge and I won't stop till I acheave my goas, I'm not a tative english speaker, sorry if a made some mistakes.</p>
